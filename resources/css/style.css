@@ -7,7 +7,15 @@ h1 {
     font-size: 70px;
 }
 
-.pagehead {
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.home {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
